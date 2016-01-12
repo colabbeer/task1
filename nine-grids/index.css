@@ -1,0 +1,10 @@
+.grid {
+    width: 100px;
+    height: 100px;
+    border-radius: 8px;
+    background-color: orange;
+}
+
+table{
+    border-spacing: 5px;
+}
